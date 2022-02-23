@@ -1,0 +1,30 @@
+{
+  "name": "@jourloy/colorfy",
+  "version": "0.1.1",
+  "description": "Logger",
+  "main": "dist/colorfy.js",
+  "types": "types.d.ts",
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "scripts": {
+    "build": "tsc --project ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jourloy/colorfy.git"
+  },
+  "keywords": [
+    "logger",
+    "nodejs",
+    "ts",
+    "js",
+    "log"
+  ],
+  "author": "Jourloy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jourloy/colorfy/issues"
+  },
+  "homepage": "https://github.com/Jourloy/colorfy#readme"
+}
