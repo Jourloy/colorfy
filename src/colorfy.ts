@@ -1,7 +1,7 @@
 import { ColorfyTypes } from '../types';
 import moment from 'moment';
 
-export class ColorfSy {
+export class Colorfy {
 	private name: string = '';
 	private f: ('log' | 'debug' | 'info' | 'warn' | 'error')[] = [
 		'log',
